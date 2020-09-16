@@ -1,6 +1,10 @@
 
 # Pavel Sviridov
 ![фото](https://sun1.velcom-by-minsk.userapi.com/c857036/v857036103/ce46b/QDX87mRGZcs.jpg)
+## Contacts
+* Phone: **+375444713712**
+* Email: **pavelsvirid26@gmail.com**
+* Telegram: **@Pavel_Sviridov**
 ## Summary
 Hi, my name is Pavel and i'am a beginner front-end developer.I have been creating websites for several years.
 I quickly learn and now I want to get a job in the company as a junior frontend developer.
