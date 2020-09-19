@@ -20,10 +20,10 @@ I quickly learn and now I want to get a job in the company as a junior frontend 
 ## Code examples
 [GitHub](https://github.com/NormanSv)
 ## Education
-I am student of the BSUIR affiliate “Minsk Radioengineering College”
-Completed HTMLAcademy: HTML & CSS basics
+* I am student of the BSUIR affiliate “Minsk Radioengineering College”
+* Completed HTMLAcademy: HTML & CSS basics
 ## English
-My English level is B2(Intermediate)
+My English level is B1(Intermediate)
 ## Experience
 * [“BookShop”](https://bookshop.netlify.app/)
 * ["SpaceX"](https://normansv.github.io/SpaceX/)
